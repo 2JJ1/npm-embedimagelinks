@@ -1,6 +1,6 @@
 {
   "name": "embedimagelinks",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Converts image link in your HTML's text nodes to to img tags",
   "main": "index.js",
   "scripts": {
