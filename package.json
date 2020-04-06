@@ -1,0 +1,26 @@
+{
+  "name": "embedimagelinks",
+  "version": "1.0.0",
+  "description": "Converts image link in your HTML's text nodes to to img tags",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/2JJ1/embedimagelinks.git"
+  },
+  "keywords": [
+    "oembed",
+    "image",
+    "embed",
+    "gyazo",
+    "imgur"
+  ],
+  "author": "Jonathon Powell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/2JJ1/embedimagelinks/issues"
+  },
+  "homepage": "https://github.com/2JJ1/embedimagelinks#readme"
+}
